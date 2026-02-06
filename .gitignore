@@ -1,0 +1,18 @@
+# Vivado junk
+*.log
+*.jou
+*.str
+.Xil/
+*.os
+*.pb
+
+# Simulation folders
+xsim.dir/
+xvlog.log
+xsim.log
+
+# Cadence (nếu bạn làm LDO/Op-Amp)
+*~
+*.log
+*.err
+*.bak
